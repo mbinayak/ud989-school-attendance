@@ -1,2 +1,2 @@
-udacity-frontend-attendance
-===========================
+school-attendance-app
+=====================
